@@ -2,4 +2,4 @@ This repository includes the code (EIOPA Analysis.ipynb) and the input data (sto
 
 The EIOPA consultation paper can be found [here](https://www.eiopa.europa.eu/document/download/e778d7bf-ad0e-42eb-abb7-912eabb6f852_en?filename=CP%20on%20technical%20advice%20on%20standard%20formula%20capital%20requirements%20for%20investments%20in%20crypto%20assets.pdf)
 
-Coinbase's response can be found here
+Coinbase's response can be found in the repo.
